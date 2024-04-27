@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "736959270084",
+    "firebase_url": "https://artfoliomobileappfinalproject-default-rtdb.firebaseio.com",
+    "project_id": "artfoliomobileappfinalproject",
+    "storage_bucket": "artfoliomobileappfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736959270084:android:576f067d6f188824ae8d91",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4fYXO72pFLZQCPRkAlIGXl0vVi2NJIhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
