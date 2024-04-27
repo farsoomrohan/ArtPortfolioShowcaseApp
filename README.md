@@ -1,16 +1,28 @@
-# test
+# Art Portfolio Showcase Flutter App Project
 
-A new Flutter project.
+This project, titled "Art Portfolio Showcase Flutter App," is a mobile app designed to empower artists by providing a platform to showcase their creative work, connect with potential clients, and receive valuable feedback. It was created by Abanazer Woldegebriel and Farhan Soomro as part of the team Irritated YAML.
 
-## Getting Started
+## Presentation and Slides
 
-This project is a starting point for a Flutter application.
+- **YouTube Presentation:** [Watch our presentation on YouTube](https://youtu.be/bt9arNQrnRE)
+- **Presentation Slides:** [View our presentation slides](https://docs.google.com/presentation/d/1Uox6gdMDsLzGxFLuKlJHSyf4l9rFhBmWmt4wYuPDhlM/edit?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started 🛠
+To get started with ArtPortfolioShowcaseApp, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Fork the Repository:** Click the "Fork" button at the top right corner of the repository's page to create a copy of the repository in your GitHub account.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Clone the Repository:** Clone your forked repository to your local machine using the following command in your terminal or command prompt:
+   ```sh
+   git clone https://github.com/judahpaul16/artfolio
+    ```
+
+3. **Install Dependencies**: Navigate to the project directory and install the required dependencies using the following command:
+    ```sh
+    flutter pub get
+    ```
+
+4. **Run the App**: Run the app on an emulator or physical device using the following command:
+    ```sh
+    flutter run
+    ```
